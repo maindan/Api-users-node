@@ -14,7 +14,7 @@ O projeto está estruturado da seguinte forma:
 - **Node.js**
 - **Express.js**
 - **Sequelize (ORM)**
-- **Banco de Dados compatível com Sequelize** (por exemplo, PostgreSQL, MySQL)
+- **Banco de Dados MySQL**
 
 ## Estrutura das Tabelas
 
