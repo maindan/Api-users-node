@@ -15,6 +15,8 @@ O projeto está estruturado da seguinte forma:
 - **Express.js**
 - **Sequelize (ORM)**
 - **Banco de Dados MySQL**
+- **Bcrypt para encriptar as senhas**
+- **JSON Web Token**
 
 ## Estrutura das Tabelas
 
