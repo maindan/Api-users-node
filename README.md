@@ -1,6 +1,6 @@
 # API de Gerenciamento de Projetos e Usuários
 
-Esta API foi desenvolvida para gerenciar projetos e usuários. Ela permite criar, atualizar, deletar e listar projetos e usuários, além de gerenciar associações entre usuários e projetos. Também possui funcionalidades de login e logout.
+Esta API foi desenvolvida para gerenciar projetos e usuários. Ela permite criar, atualizar, deletar e listar projetos e usuários, além de gerenciar associações entre usuários e projetos. Também possui funcionalidades de registro de usuários, login e logout.
 
 ## Estrutura do Projeto
 
